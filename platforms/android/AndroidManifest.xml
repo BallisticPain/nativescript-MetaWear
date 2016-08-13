@@ -1,0 +1,3 @@
+<application>
+    <service android:name="com.mbientlab.metawear.MetaWearBleService" />
+</application>

@@ -1,0 +1,18 @@
+android {
+    productFlavors {
+        "nativescript-metawear" {
+            dimension "nativescript-metawear"
+        }
+    }
+}
+
+repositories {
+    ivy {
+        url "http://ivyrep.mbientlab.com"
+        layout "gradle"
+    }
+}
+
+dependencies {
+    compile 'com.mbientlab:metawear:2.6.0'
+}

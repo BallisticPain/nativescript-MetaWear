@@ -4,8 +4,8 @@
   "description": "NativeScript wrapper of the MetaWear APIs for iOS and Android",
   "nativescript": {
     "platforms": {
-      "ios": "2.6.0",
-      "android": "2.6.0"
+      "ios": "2.2.0",
+      "android": "2.2.0"
     }
   },
   "repository": {
@@ -16,7 +16,7 @@
     "NativeScript",
     "MetaWear",
     "mbientlab"
-  ]
+  ],
   "author": "Jarvis Stubblefield <jarvis@vortexrevolutions.com> (http://vortexrevolutions.com)",
   "license": {
     "type": "MIT"

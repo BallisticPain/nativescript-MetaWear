@@ -1,3 +1,6 @@
-<application>
-    <service android:name="com.mbientlab.metawear.MetaWearBleService" />
-</application>
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <service android:name="com.mbientlab.metawear.MetaWearBleService" />
+    </application>
+</manifest>

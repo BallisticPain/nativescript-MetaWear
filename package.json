@@ -15,7 +15,11 @@
   "keywords": [
     "NativeScript",
     "MetaWear",
-    "mbientlab"
+    "mbientlab",
+    "JavaScript",
+    "TypeScript",
+    "IoT",
+    "Internet of Things"
   ],
   "author": "Jarvis Stubblefield <jarvis@vortexrevolutions.com> (http://vortexrevolutions.com)",
   "license": {

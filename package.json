@@ -22,11 +22,12 @@
     "Internet of Things"
   ],
   "author": "Jarvis Stubblefield <jarvis@vortexrevolutions.com> (http://vortexrevolutions.com)",
-  "license": {
-    "type": "MIT"
-  },
+  "license": "MIT",
   "homepage": "https://github.com/BallisticPain/nativescript-MetaWear",
   "bugs": {
     "url": "https://github.com/BallisticPain/nativescript-MetaWear/issues"
+  },
+  "dependencies": {
+    "nativescript-bluetooth": "^1.1.2"
   }
 }
